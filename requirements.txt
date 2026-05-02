@@ -1,0 +1,23 @@
+# Core numerics
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Visualisation
+matplotlib>=3.7
+plotly>=5.17
+altair>=5.0
+
+# Machine learning
+scikit-learn>=1.3
+xgboost>=2.0
+joblib>=1.3
+
+# Web scraping
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+
+# Notebook + Streamlit
+jupyter>=1.0
+streamlit>=1.32
